@@ -1,5 +1,5 @@
 #!/bin/bash 
-
+#testing file for github
 ### input information
 #INDELS="/Volumes/TwoT/Desktop/breastcancer/IGV/IGV_2.3.57/variants_IGVsone.txt" ## variant sites for IGVs, Chromosome Position bamfile in each line and tab seperated.
 INDELS="/home/local/users/ld402/test/igv_test/igv_test.txt" ## variant sites for IGVs, Chromosome Position bamfile in each line and tab seperated.
